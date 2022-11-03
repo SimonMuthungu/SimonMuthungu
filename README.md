@@ -1,6 +1,8 @@
   Hi there 👋
-- I just finished writing a money payment program in python that has full functionality like the Mpesa system. Its im my repo :)
-- I have built a rock paper scissors game and a hangman game in python just for practise: the former I built on my own from scratch while the latter was inspired.
+- I just finished writing a money payment program in python that has full functionality like the Mpesa system. Its in my repo :)
+- I have built a rock paper scissors game in python.
+- I have built a hangman game in python.
+- I have built a program that calculates the exact number of days you have lived on earth! 
 
 - 🔭 I’m currently working on a memes app with django web framework
 - 🌱 I’m currently learning python and database on w3 schools and freecodecamp
