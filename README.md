@@ -1,5 +1,11 @@
   Hi there 👋
-- I just finished writing a money payment program in python that has full functionality like the Mpesa system. Its in my repo :)
+  My name is SIMON MUTHUNGU and this is my repo. Im a proud owner of every project in this repo unless ive stated otherwise. These are but some of my achievements.
+  
+- I have created a web scrapper program that scrapes Jumia website in the mobile phones category and writes that info into a csv file. I figured that was better than having to waste time perusing phone by phone. Now, I know which phone to buy! :)
+
+
+- I just finished writing a money payment program in python that has full functionality like the Mpesa system. Its in my github.
+- I just earned a python developer certification from freecodecamp. 
 - I have built a rock paper scissors game in python.
 - I have built a hangman game in python.
 - I have built a program that calculates the exact number of days you have lived on earth! 
