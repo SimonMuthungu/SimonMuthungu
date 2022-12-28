@@ -1,6 +1,7 @@
   Hi there 👋
   My name is SIMON MUTHUNGU and this is my repo. Im a proud owner of every project in this repo unless ive stated otherwise. These are but some of my achievements.
   
+ - I just made a supermarket app in python that can manage all operations in a supermarket. 
  - I made a bash script/program that fills and monitors a bike-shop owner's appointments in a postgresql database
   
 - I have created a web scrapper program that scrapes Jumia website in the mobile phones category and writes that info into a csv file. I figured that was better than having to waste time perusing phone by phone. Now, I know which phone to buy! :)
