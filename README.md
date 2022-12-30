@@ -1,6 +1,8 @@
   Hi there 👋
   My name is SIMON MUTHUNGU and this is my repo. Im a proud owner of every project in this repo unless ive stated otherwise. These are but some of my achievements.
   
+ - Finished a django web app and deployed to amazon aws using their free tier, rds database and elastic beanstalk service.
+   
  - I just made a supermarket app in python that can manage all operations in a supermarket, stores data in a local myqsl and logs every event.
  - I made a bash script/program that fills and monitors a bike-shop owner's appointments in a postgresql database
   
