@@ -9,7 +9,6 @@ Driven to learn new technologies and bring value and efficiency in the work plac
 *   🌍  I'm based in Kenya
 *   🖥️  See my portfolio at [My resume](http://www.canva.com/design/DAFaP3BQhOo/eGDIRhKyWkcVFhaOIS0QiA/view?utm_content=DAFaP3BQhOo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 *   ✉️  You can contact me at [henrymsechu1@gmail.com](mailto:henrymsechu1@gmail.com)
-*   🧠  I'm learning Unitest and other python testing frameworks
 *   🤝  I'm open to collaborating on Interesting or open source projects
 *   ⚡  Im a rational and critical thinker### Skills 
 <p align="left">
